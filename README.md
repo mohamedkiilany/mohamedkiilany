@@ -20,8 +20,6 @@
 
 <p align="center">
 
-<a style="display:inline-block; margin:5px;" href="...">
-
 <a href="https://www.linkedin.com/in/mohamed-ibrahim-53b9a621a/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="45" />
 </a>
@@ -35,6 +33,8 @@
 </a>
 
 </p>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 
