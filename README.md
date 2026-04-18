@@ -18,28 +18,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://cplusplus.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<a href="https://www.linkedin.com/in/mohamed-ibrahim-53b9a621a/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45"/>
 </a>
 
-<a href="https://dart.dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45"/>
+<a href="https://www.instagram.com/mohamed_kiilany/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"width="45"/>
 </a>
 
-<a href="https://flutter.dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohamed-ibrahim-53b9a621a/" target="_blank" style="display:inline-block; margin-right:8px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="45"/>
-</a>
-
-<a href="https://www.instagram.com/mohamed_kiilany/" target="_blank" style="display:inline-block; margin-right:8px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="45"/>
-</a>
-
-<a href="https://wa.me/201211427562" target="_blank" style="display:inline-block;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="40" width="45"/>
+<a href="https://wa.me/201211427562" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"width="45"/>
 </a>
 
 
